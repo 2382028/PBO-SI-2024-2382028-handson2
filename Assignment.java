@@ -2,7 +2,7 @@ public class Assignment {
     public static void main(String[] args) {
         //1. assignment sederhana
         int x = 10;
-        String fullName = "Jeremy Panjaitan";
+        String fullName = "Daniella Sabathini R";
 
         //2. assignment aritmatika
         int a = 5;
